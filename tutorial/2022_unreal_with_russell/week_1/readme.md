@@ -31,6 +31,9 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/032d4d86-b3f0-47d
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4a5cc67c-9bc1-4151-a12d-0677228896d0)
 ### r 은 스케일 모드인데 신기한 건 두축을 변형하거나 모든 축을 변형할 수 있다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/99d1dcff-b77f-4fcc-b01a-d1c44c47dddc
+### 언리얼은 배치의 편의성을 위해 snap 이라는 기능이 있다. 한 번 변형을 할 때 얼만큼 변형할지를 설정하는 것이다.
+#### 끌 수도 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/96315cfe-7c39-4535-90fe-e76cc51c7e9d)
 
 
 
