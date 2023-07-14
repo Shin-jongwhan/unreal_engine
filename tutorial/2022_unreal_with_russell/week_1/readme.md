@@ -21,8 +21,16 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/de7f97b1-0def-4ddc-a524-19c810a4e8f8)
 ### <br/><br/><br/>
 
-### 마우스 우클릭을 하고 wasd 를 누르면 움직일 수 있다 
+### 마우스 우클릭을 하고 wasd 를 누르면 움직일 수 있다. qe 는 수직으로 움직인다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/032d4d86-b3f0-47dc-8f20-8f5a1d379880
+
+### 주황색 박스로 표시된 object 하나하나를 actor 라고 부른다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8067adce-5c08-4020-833a-82cca68f1166)
+### 화살표 표시는 gizmo 라고 부른다. x, y, z 축으로 움직일 수 있다. 유니티와 같다.
+### actor 를 클릭하고 qwer 을 누르면 모드가 바뀐다. 이도 유니티와 같다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4a5cc67c-9bc1-4151-a12d-0677228896d0)
+### r 은 스케일 모드인데 신기한 건 두축을 변형하거나 모든 축을 변형할 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/99d1dcff-b77f-4fcc-b01a-d1c44c47dddc
 
 
 
