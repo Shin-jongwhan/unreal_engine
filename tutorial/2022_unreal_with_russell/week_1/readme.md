@@ -21,4 +21,8 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/de7f97b1-0def-4ddc-a524-19c810a4e8f8)
 ### <br/><br/><br/>
 
+### 마우스 우클릭을 하고 wasd 를 누르면 움직일 수 있다 
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/032d4d86-b3f0-47dc-8f20-8f5a1d379880
+
+
 
