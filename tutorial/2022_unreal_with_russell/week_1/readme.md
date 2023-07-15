@@ -75,6 +75,29 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ba55da5b-6cbf-479
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/17aaf04c-8929-482c-bbee-1580fe1c99e1)
 ### 엄청난 점프력...
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/91baadeb-b79f-4507-98ad-e948ce0eefc6
+### 속도도 바꿔보았다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/25dc31fe-9d5d-4558-a85e-64dae63cf25b
+### <br/>
+
+### 플레이어 스타트 actor 가 존재하는데, 이 위치를 바꿔주면 플레이어 시작 장소가 바뀐다.
+### 액터 창에서도 새로 생성할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1e62d4cb-7b65-4ee3-a935-d20b1aa8e5cb)
+### <br/><br/><br/>
+
+## 시작용 컨텐츠 구경하기
+### 시작용 컨텐츠를 추가하지 않았다면 컨텐츠브라우저에서 추가 버튼을 눌러 추가할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b94969b4-4709-4180-a4b5-aee82437fccf)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5eea962e-6c1d-4862-8889-31146c09a02c)
+### 그럼 이렇게 startcontent 라고 생긴다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6c8f89f0-b036-47fa-b043-1a5d771f4e34)
+### 다양한 물건들을 배치해보자
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/dfb875ea-b869-4540-91c2-fb39de9bf3ed)
+### material 은 actor 쪽에 드래그하면 바로 적용이 된다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/88361a96-fbae-4c00-9355-da554e4be3d5
+
+
+
+
 
 
 
