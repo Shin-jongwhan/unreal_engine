@@ -1,4 +1,5 @@
 # 1주차
+## 230712
 ### [1주차 (youtube)](https://www.youtube.com/watch?v=eT-uLb-tVIM&t=204s)
 ### <br/><br/><br/>
 
@@ -48,4 +49,12 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/99d1dcff-b77f-4fc
 ### 드래그해서 사용 가능하다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7d75f1de-8755-4c93-bb95-5e3895bc5bc7)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8a08c4ff-ef2e-469a-ba61-fa9f7de39bbb)
+### <br/><br/><br/>
+
+## 시작용 컨텐츠
+### 기본적으로 시작용 컨텐츠를 포함하면 캐릭터를 움직일 수 있다.
+### AWSD 와 스페이스 바를 이용하면 캐릭터가 움직인다
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/645cd094-a5a0-44f6-a1db-aa5beb198b46
+### <br/>
+
 
