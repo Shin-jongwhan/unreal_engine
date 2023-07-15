@@ -62,6 +62,7 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/645cd094-a5a0-44f
 ### alt + 왼쪽 클릭으로 같은 것을 복제할 수 있다. 매우 유용 !
 ### 그리고 shift 를 클릭해서 여러 actor 를 선택하면 여러 개를 복제할 수도 있다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ba55da5b-6cbf-479c-a73e-35f994e40ef0
+### <br/>
 
 ### 캐릭터 옵션 변경
 ### thirdperson 폴더에 캐릭터가 있다. 더블 클릭
@@ -90,7 +91,7 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/25dc31fe-9d5d-455
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b897376a-bf6f-4922-a7e1-3e38245edad0)
 ### 그런데 이동시킬 때는 하얀색 점을 클릭해서 이동해야 한다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1d443d06-6a36-4941-b15b-0b858cf67188
-
+### <br/>
 
 ### 피벗 위치 설정
 ### alt + 마우스 휠을 누르면 피벗 위치가 변경된다.
