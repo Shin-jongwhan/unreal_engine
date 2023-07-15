@@ -51,10 +51,31 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/99d1dcff-b77f-4fc
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8a08c4ff-ef2e-469a-ba61-fa9f7de39bbb)
 ### <br/><br/><br/>
 
-## 시작용 컨텐츠
+## 기본 조작 / 옵션 변경
+### 시작용 컨텐츠
 ### 기본적으로 시작용 컨텐츠를 포함하면 캐릭터를 움직일 수 있다.
 ### AWSD 와 스페이스 바를 이용하면 캐릭터가 움직인다
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/645cd094-a5a0-44f6-a1db-aa5beb198b46
 ### <br/>
+
+### actor 복제
+### alt + 왼쪽 클릭으로 같은 것을 복제할 수 있다. 매우 유용 !
+### 그리고 shift 를 클릭해서 여러 actor 를 선택하면 여러 개를 복제할 수도 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ba55da5b-6cbf-479c-a73e-35f994e40ef0
+
+### 캐릭터 옵션 변경
+### thirdperson 폴더에 캐릭터가 있다. 더블 클릭
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/9ff49757-bbd4-4f17-8299-fe9854d99e40)
+### 그러면 이렇게 애니메이션에 대한 정보가 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f992cb54-fc3b-4dfb-a28d-8c5d236c5937)
+### 좌측에 컴포넌트 창에서 캐릭터 무브먼트 항목이 있다. 클릭하면 우측의 디테일 창 내용이 바뀐다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/27cbb9c3-8fed-4048-a5cf-09639cb5e29f)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a7af3205-52e6-4cdd-977b-657001f7f45f)
+### 여기서 점프 부분을 700 에서 1200 으로 바꿔보자
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/17aaf04c-8929-482c-bbee-1580fe1c99e1)
+### 엄청난 점프력...
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/91baadeb-b79f-4507-98ad-e948ce0eefc6
+
+
 
 
