@@ -85,6 +85,22 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/25dc31fe-9d5d-455
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ddb7bf0b-6be1-4773-b213-7d12989e3c59)
 ### <br/>
 
+### 표면 스냅
+### 뷰포트 우측 상단에 표면 스냅이라고 있다. 이것을 누르면 오브젝트를 이동 시에 표면에 부착되어 이동시킬 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b897376a-bf6f-4922-a7e1-3e38245edad0)
+### 그런데 이동시킬 때는 하얀색 점을 클릭해서 이동해야 한다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1d443d06-6a36-4941-b15b-0b858cf67188
+
+
+### 피벗 위치 설정
+### alt + 마우스 휠을 누르면 피벗 위치가 변경된다.
+### 그리고 뷰포트 창에서 우클릭 -> 피벗 -> 피벗 오프셋 설정을 누르면 해당 오브젝트의 위치가 저장된다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b42f713f-3445-43c0-a52a-9e3880258e26
+### 다른 방법으로는 모델링 모드를 선택해서 피벗을 바꿀 수 있다.
+### 이 방법은 해당 오브젝트의 리소스 자체를 바꾼다. 다음에 실행해도 그대로 유지된다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4a3f6769-551d-4fd8-9058-2d734bae04a6)
+### <br/>
+
 ### 플레이어 스타트 actor 가 존재하는데, 이 위치를 바꿔주면 플레이어 시작 장소가 바뀐다.
 ### 액터 창에서도 새로 생성할 수 있다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1e62d4cb-7b65-4ee3-a935-d20b1aa8e5cb)
