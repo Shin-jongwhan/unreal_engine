@@ -18,4 +18,16 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f64686f7-3319-4d53-a45c-0b33aca4b1cc)
 ### 그 다음 shift 를 눌러서 처음부터 끝까지 선택, 그 다음 나나이트 활성화를 누른다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e4e0d3b9-30fc-493c-b457-26b12a570109)
+### 나나이트를 활성화하면 매우 고퀄리티이기 때문에 크게 확대하여도 아주 디테일하다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/fd7ef0ee-8d1c-4d60-b420-61df3d2db5aa
+### <br/><br/><br/>
+
+## material 편집
+### 오브젝트에는 material 이 입혀져 있다.
+### 그림 부분을 더블 클릭 하면 편집할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c018c204-79ef-434d-bf09-3b5c81d5066b)
+### albedo 부분을 체크하고 확장해보자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3fa03c07-45d8-49b7-9c75-86facde91fdf)
+### saturation 은 채도를 나타낸다. 0 이 채도가 없는 상태이다.
+
 
