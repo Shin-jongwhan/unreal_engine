@@ -116,6 +116,25 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6e5c23d8-1489-4f5
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13e90b67-e5d3-4334-b741-e9c40658570a
 ### <br/><br/><br/>
 
+## 기본 조작법
+### shift 를 누르고 움직이면 화면이 같이 움직인다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2f8a39fb-1a54-4a58-b073-9bbf11f17b1a
+### <br/>
+
+### 원근 - 상단을 클릭하면 상단 도면과 같이 볼 수 있다.
+### 마우스 휠 클릭 유지하고 드래그하면 거리도 잴 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/026d833c-adca-4234-8644-4b4944397869
+### <br/>
+
+### 북마크
+### 저장된 지역으로 이동하는 기능이다.
+- ctrl + 번호 : 해당 지역 저장 (북마크 탭에서도 설정 가능)
+- 번호 : 저장된 지역으로 이동
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8d9b233c-a999-4e44-98ef-bde8fe20d3d5)
+### <br/><br/><br/>
+
+
+
 
 
 
