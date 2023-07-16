@@ -13,6 +13,9 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3761cdbd-fbfb-4c74-bf49-dc4ccc229659)
 ### <br/>
 
+### 나나이트 활성화 모두 설정 방법
 ### 콘텐츠 브라우저에서 필터링 부분을 클릭하면 자신이 원하는 것만 필터링하여 볼 수 있다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f64686f7-3319-4d53-a45c-0b33aca4b1cc)
+### 그 다음 shift 를 눌러서 처음부터 끝까지 선택, 그 다음 나나이트 활성화를 누른다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e4e0d3b9-30fc-493c-b457-26b12a570109)
 
