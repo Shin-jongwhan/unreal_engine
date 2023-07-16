@@ -26,4 +26,17 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5d4a925c-1b02-45cc-b6d4-decda23d9b09)
 ### 전체 선택(ctrl + a) 하고 LOD 바이어스를 1로 높여준다.
 ### 그러면 8096 * 8096 텍스처가 반으로 줄어든다.
+### * 주의 : 메모리를 매우매우 많이 잡아먹는다. 메모리가 안 크면 조금씩 하는 수밖에 없다... 나느 80 기가 메모리인데 수십개를 한 번에 하려니 부족했다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c066b46e-f768-4835-b059-d278b5374aa4)
+### 텍스처 하나만 더블 클릭해보면 다음과 같이 반으로 줄어들어 있는 걸 확인할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2c7dcd2a-a73a-42b9-90e5-e57123921ad0)
+### <br/>
+
+### 만약 텍스처 메모리 할당 초과 알람이 뜨면 언리얼 cmd 입력창에 다음의 명령어를 입력해준다.
+```
+r.streamimg.poolsize
+```
+### <br/><br/><br/>
+
+## 
+
