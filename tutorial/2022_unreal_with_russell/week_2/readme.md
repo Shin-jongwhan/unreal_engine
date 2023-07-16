@@ -83,6 +83,40 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0ac9fcf6-b61e-4c9
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/79db042c-dbb9-43f7-88b8-687ac8bf8ea3)
 ### 어둡게
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0aa1c01e-b81e-474a-b414-e0f008977cac)
+### <br/>
+
+### roughness 부분을 살짝 낮춰주면 빛 반사 효과와 입체감을 낼 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ab454bfb-6899-475d-a392-a0597630d7a1)
+### <br/>
+
+### wind 라는 부분이 있는데 이거 체크하면 약간의 움직이는 효과를 낼 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/425aebdc-ce04-4e1e-9ce2-fec29ba26b36
+### <br/><br/><br/>
+
+## 폴리지 시스템
+### 다수의 식물 오브젝트들을 한 번에 배치하는 시스템
+### 뷰포트 좌측 상단 선택 창에서 선택할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c5a33bbf-cfd4-4ac3-b7e0-3f6edb133707)
+### 배치할 식물을 선택한 후 scene 에 좌클릭
+### 지우려면 shift + 좌클릭
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6e5c23d8-1489-4f54-a3f1-bb7710ef32f8
+### <br/>
+
+### x 스케일
+### 배치할 때 오브젝트의 스케일을 해당 값 사이로 랜덤 배치하는 옵션이다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a4eb4a13-495d-46a0-b14d-688e521067e9)
+### <br/>
+
+### 밀도
+### 폴리지 영역에 얼마나 많은 식물을 한 번에 배치할지 설정하는 옵션이다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/38a6138d-5916-448c-8fce-b204a707a195)
+### <br/>
+
+### 어느 정도 맞춰주면 자연스럽게 배치할 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13e90b67-e5d3-4334-b741-e9c40658570a
+### <br/><br/><br/>
+
+
 
 
 
