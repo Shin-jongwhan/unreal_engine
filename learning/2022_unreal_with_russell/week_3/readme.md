@@ -38,5 +38,9 @@ r.streamimg.poolsize
 ```
 ### <br/><br/><br/>
 
-## 
+## 오브젝트 배치
+### 대충 배치해보자. ㅎㅎ
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a9464ffa-6430-4891-a3f4-0526fab6d18b)
+
+
 
