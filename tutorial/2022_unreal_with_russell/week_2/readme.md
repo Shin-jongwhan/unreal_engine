@@ -24,10 +24,22 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/fd7ef0ee-8d1c-4d6
 
 ## material 편집
 ### 오브젝트에는 material 이 입혀져 있다.
+### 같은 오브젝트라도 material 에 따라서 완전히 다른 느낌을 낼 수 있다.
 ### 그림 부분을 더블 클릭 하면 편집할 수 있다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c018c204-79ef-434d-bf09-3b5c81d5066b)
-### albedo 부분을 체크하고 확장해보자.
-#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3fa03c07-45d8-49b7-9c75-86facde91fdf)
-### saturation 은 채도를 나타낸다. 0 이 채도가 없는 상태이다.
+### <br/>
 
+### albedo
+### albedo 부분을 체크하고 확장해보자.
+### albedo tint 는 색 온도를 설정하는 값이다.
+### control 옵션
+- saturation : 채도를 나타낸다. 0 이 채도가 없는 상태이다.
+- brightness : 밝기
+- contrast : 대비
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3fa03c07-45d8-49b7-9c75-86facde91fdf)
+### <br/>
+
+### roughness
+#### 약간 물에 젖은 듯한 느낌을 줄 수 있다. 재질이 금속인 경우 효과가 좋다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/356801c9-5c28-4d4e-bc5c-570d252fc734
 
