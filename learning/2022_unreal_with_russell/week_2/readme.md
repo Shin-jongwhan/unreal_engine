@@ -131,6 +131,15 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/026d833c-adca-423
 - ctrl + 번호 : 해당 지역 저장 (북마크 탭에서도 설정 가능)
 - 번호 : 저장된 지역으로 이동
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8d9b233c-a999-4e44-98ef-bde8fe20d3d5)
+### <br/>
+
+### 스크린샷
+### 언리얼에는 뷰포트에 나온 스크린샷을 찍는 기능도 있는데, 고해상도로 찍는 기능도 있다.
+### 참고로 알아두자
+```
+HighResShot 3840x2160
+```
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e2301860-53d2-46c0-9bb0-27dbe40c2e03)
 ### <br/><br/><br/>
 
 
