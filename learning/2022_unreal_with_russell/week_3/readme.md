@@ -41,6 +41,26 @@ r.streamimg.poolsize
 ## 오브젝트 배치
 ### 대충 배치해보자. ㅎㅎ
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a9464ffa-6430-4891-a3f4-0526fab6d18b)
+### <br/>
+
+### 이제 나뭇가지를 설치해보고 스타트 콘텐츠 패키지에서 파티클 - 파이어를 추가해보자.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e70d27f6-f415-4f1e-8ca3-702f3a06a7ed
+### <br/>
+
+### 아웃라이너 창(오브젝트 목록창)에서 lighting 폴더 안에 있는 것들을 모두 지우면 이렇게 어두워진다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7b3bcf0a-8b72-4acf-98a5-5c6c5d38035c
+### <br/>
+
+### 이럴 때는 환경 라이트 믹서라는 기능을 이용해보자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e6fec0de-5916-41cb-9bbe-4a2fe13a40d3)
+### <br/>
+
+### directional light 는 전역으로 빛이 비추는 태양광이다.
+### 각도에 따라 시간도 바꿀 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13745047-b39a-47c6-864b-99c18869686b
+### <br/>
+
+
 
 
 
