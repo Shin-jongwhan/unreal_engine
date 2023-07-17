@@ -60,6 +60,17 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7b3bcf0a-8b72-4ac
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13745047-b39a-47c6-864b-99c18869686b
 ### <br/>
 
+### skylight 에서는 리얼타임 캡처라는 옵션이 있다.
+### 이는 해가 위치에 따라 노을이 지고, 해가 지면서 비추는 광량이 다른데 리얼타임 캡처를 활성화해주면 광량에 따라 자연 반사되는 광량도 자동 조절해준다.
+### 즉, 간접광을 자동 조절해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/50f827fa-e8d6-435c-86d1-d6ec624b4f92)
+### <br/>
+
+### ExponentialHeightFog
+### 안개 수치를 조정할 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ac272933-1e49-4b55-b4f7-aa4ac138f843
+- 포그 인스캐터링 컬러 : 안개의 색을 조정한다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5fec9049-4d60-4d25-94dc-b7eb63829a35
 
 
 
