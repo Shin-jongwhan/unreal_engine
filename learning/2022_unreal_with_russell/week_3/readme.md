@@ -69,9 +69,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13745047-b39a-47c
 ### ExponentialHeightFog
 ### 안개 수치를 조정할 수 있다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ac272933-1e49-4b55-b4f7-aa4ac138f843
-- 포그 인스캐터링 컬러 : 안개의 색을 조정한다.
+- 포그 인스캐터링 컬러 : 안개의 색을 조정한다. 빛 컬러가 덮어 씌어지기 때문에 특정 시간대에만 쓰는 것을 권장한다고 러셀이 말했다.
   
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5fec9049-4d60-4d25-94dc-b7eb63829a35
+
+
 
 
 
