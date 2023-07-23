@@ -38,3 +38,8 @@
 ### 그리고 랜더링해보자.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3540f44e-55cf-4cc8-a9a5-04940e046b86
 ### <br/><br/><br/>
+
+## 무비 랜더링 플러그인
+### 우측 상단 세팅 - 플러그인을 눌러서 movie render 를 검색해서 아래 플러그인을 추가해보자
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3acdb4ad-f1fb-4bb2-9bf7-4062712f9fa5)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1e08d6aa-c42f-4883-abdc-5d7a64dd2f08)
