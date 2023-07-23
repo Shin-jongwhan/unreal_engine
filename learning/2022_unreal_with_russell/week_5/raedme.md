@@ -28,3 +28,13 @@
 ### directional light 는 회전 값을 바꿔주어야 하는데, 카메라는 여러 개인데 light 는 하나이다. 그래서 1 프레임이 바뀔 때 회전 값을 전환되는 카메라에 맞춰 다시 초기화하고 키 프레임을 찍으면 된다.
 ### 한 카메라가 1~60 프레임까지라면 59 까지 하나 찍고, 60 에 하나 더 찍으면 된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8d1770e5-87a7-4bf3-b909-28bbb4ab1958)
+### <br/>
+
+## 랜더링 방법
+### 무비 슬랩 버튼을 누른다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d735dc0a-ef97-4be9-80b8-e86b41fb5671)
+### 애니메이션 설정은 이렇게 해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ecd3eca3-3647-48c3-ad57-a405ab2c7da2)
+### 그리고 랜더링해보자.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3540f44e-55cf-4cc8-a9a5-04940e046b86
+### <br/><br/><br/>
