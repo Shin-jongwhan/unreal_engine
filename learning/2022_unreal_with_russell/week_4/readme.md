@@ -122,7 +122,7 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e7b813c8-84d6-499
 ### <br/>
 
 ### 언리얼 5 에서는 강의 영상에서 나오는 파티클 문제는 없다.
-#### * 영상에서는 파티클은 초점이 흐려지지 않았다.
+#### * 영상에서는 파티클은 초점이 흐려지지 않았고, 파티클에 있는 모든 meteral 을 더블 클릭해서 DOF 를 before 로 바꿔주었다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/dcdf25be-a6e5-4f87-ae7a-d044a2267266)
 ### <br/>
 
