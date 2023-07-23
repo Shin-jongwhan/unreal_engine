@@ -106,7 +106,16 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7896c2d0-f9d4-4fd
 ### <br/>
 
 ### 시네 파일럿 카메라로 화면을 전환하고 싶으면 오브젝트에 우클릭해서 파일럿을 선택하자.
+### 그럼 scene 에서 이동할 때마다 해당 오브젝트의 위차가 바뀐다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/20e6bce6-f9cc-46fd-a242-77386f34d1f1)
+### <br/>
+
+### 옵션에서 렌즈 세팅을 확장해주고 최소 F 값은 0 으로 설정해주고, 카메라 화면을 땅에 밀접하게 해준다.
+### 그리고 조리개 값을 변경하여 피사체 위치에 맞게 초점을 맞출 수 있다.
+### * 포커스 세팅 - 수동 초점 거리도 있다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e7b813c8-84d6-499e-a8cc-e7ce95470c95
+
 
 
 
