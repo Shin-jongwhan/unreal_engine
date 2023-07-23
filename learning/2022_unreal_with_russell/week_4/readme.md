@@ -113,11 +113,16 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7896c2d0-f9d4-4fd
 ### 옵션에서 렌즈 세팅을 확장해주고 최소 F 값은 0 으로 설정해주고, 카메라 화면을 땅에 밀접하게 해준다.
 ### 그리고 조리개 값을 변경하여 피사체 위치에 맞게 초점을 맞출 수 있다.
 ### * 포커스 세팅 - 수동 초점 거리도 있다.
-
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e7b813c8-84d6-499e-a8cc-e7ce95470c95
+### <br/>
 
+### 시네 카메라를 복제할 때는 하이라키 창에서 컨트롤 + D 를 눌러서 복제한다.
+### 그럼 2 번에서는 다른 곳을 촬영할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6e697803-b376-4ad8-acef-155a2abee9ea)
+### <br/>
 
-
-
-
+### 언리얼 5 에서는 강의 영상에서 나오는 파티클 문제는 없다.
+#### * 영상에서는 파티클은 초점이 흐려지지 않았다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/dcdf25be-a6e5-4f87-ae7a-d044a2267266)
+### <br/>
 
