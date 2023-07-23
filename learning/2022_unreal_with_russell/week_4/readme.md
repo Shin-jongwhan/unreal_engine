@@ -35,3 +35,24 @@
 ### 그러면 하늘이 구름 없이 말끔해질 것이다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/713867c1-7348-4b4d-9a6d-2e4a5ffdf7bc)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/27549a13-b7e6-4475-ad3d-f4bdf079580e)
+### <br/>
+
+### 아래 폴더로 가면 2가지 object - cloud mask object, cloud mask generator 가 있다.
+### cloud mask generator 를 scene 에 드래그해서 아무데나 배치해주자.
+### 그 다음 cloud mask object 도 드래그해서 배치해주자. 그리고 이걸 기즈모 화살표를 이용해 하늘로 쭉 올려준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5180e834-f05a-4d3e-a87f-6fe6dac81b23)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0b89ea0c-c7d7-41ec-bd14-d543700f42e8)
+### cloud mask obejct 이동에 따라 구름도 바뀐다. R 버튼으로 스케일 기즈모 모드로 바꾸면 구름의 크기도 바꿀 수 있다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/798cea71-c9d1-4d35-9849-4540a750f1f6
+### <br/>
+
+### material 위치 쉽게 찾는 방법
+### 아래와 같이 material 쪽에서 폴더 버튼을 누르면 바로 해당 material 위치로 이동한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7f316c6b-5ace-4e3b-84ab-a8281a9f76d5)
+### <br/>
+
+### 그 찾은 material 우클릭 해서 인스턴스 생성을 눌러주자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bd252919-afe2-4bd4-a661-9484c64d73dc)
+
+
