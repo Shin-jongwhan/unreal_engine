@@ -26,4 +26,5 @@
 ### directional light 도 시퀀서에서 구성할 수 있다.
 ### 그냥 카메라랑 똑같이 드래그하면 된다.
 ### directional light 는 회전 값을 바꿔주어야 하는데, 카메라는 여러 개인데 light 는 하나이다. 그래서 1 프레임이 바뀔 때 회전 값을 전환되는 카메라에 맞춰 다시 초기화하고 키 프레임을 찍으면 된다.
+### 한 카메라가 1~60 프레임까지라면 59 까지 하나 찍고, 60 에 하나 더 찍으면 된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8d1770e5-87a7-4bf3-b909-28bbb4ab1958)
