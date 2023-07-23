@@ -1,4 +1,4 @@
-# 4 주차
+ # 4 주차
 ## 230718
 ### [4주차 (youtube)](https://www.youtube.com/watch?v=MB3_OnK8opc&t=2s)
 ### <br/><br/><br/>
@@ -47,12 +47,27 @@
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/798cea71-c9d1-4d35-9849-4540a750f1f6
 ### <br/>
 
-### material 위치 쉽게 찾는 방법
+### volumetriccloud 오브젝트를 선택하고,
 ### 아래와 같이 material 쪽에서 폴더 버튼을 누르면 바로 해당 material 위치로 이동한다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7f316c6b-5ace-4e3b-84ab-a8281a9f76d5)
 ### <br/>
 
 ### 그 찾은 material 우클릭 해서 인스턴스 생성을 눌러주자.
+### 그리고 드래그해서 meterial 부분에 넣어주자.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bd252919-afe2-4bd4-a661-9484c64d73dc)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7e8446c2-8e0a-4209-984b-4134b8849f93)
+### <br/>
+
+### 그리고 더블 클릭 해서 편집 창을 열어준다.
+### 구름의 외형을 바꿀 수 있다.
+### 옵션 하나하나씩을 바꾸어가면서 어떻게 바뀌는지 스스로 알아가보자.
+### <br/>
+
+### 카메라 속도를 최고로 올려서 위로 올라가보자
+#### * ExponentialHeightFog 는 하이라키 창에서 꺼주자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0f9cea8a-94bf-4352-b6e3-1394056544cc)
+### 그러면 이렇게 구체 형태의 행성이 보인다. 언리얼은 이렇게 지구와 같이 행성을 만들고, 거기에 빛, 구름 등을 만드는 구조이다.
+### 그래서 매우 실제처럼 만들 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/679ece6a-dd89-4980-ac91-abefe221015e)
 
 
