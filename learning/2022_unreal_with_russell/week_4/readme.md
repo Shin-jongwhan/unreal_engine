@@ -1,4 +1,4 @@
- # 4 주차
+# 4 주차
 ## 230718
 ### [4주차 (youtube)](https://www.youtube.com/watch?v=MB3_OnK8opc&t=2s)
 ### <br/><br/><br/>
@@ -69,5 +69,36 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/798cea71-c9d1-4d3
 ### 그러면 이렇게 구체 형태의 행성이 보인다. 언리얼은 이렇게 지구와 같이 행성을 만들고, 거기에 빛, 구름 등을 만드는 구조이다.
 ### 그래서 매우 실제처럼 만들 수 있다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/679ece6a-dd89-4980-ac91-abefe221015e)
+### <br/><br/><br/>
+
+## post process volume 
+### 검색 창에서 post 라고 입력하면 바로 나온다.
+### scene 에 드래그해서 배치해주자.
+#### * 하이라키 창 - lighting 폴더에 옮겨주자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7b5d1c8c-9ba7-4ea7-86ce-7ee75654ea06)
+### 그리고 무한 규모 옵션을 체크해주자.
+### 이것을 체크하면 이 오브젝트 박스 안에 있지 않아도 어디서든 적용이 될 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/9735ed62-4386-4b79-bdb9-459056be106e)
+### <br/>
+
+### post process volume 은 directional light 의 색 등을 바꾸는 게 아니라, directional light 는 그대로 있고 그 후 실제로 보여지는 것을 조정해주는 후 작업 처리를 한다.
+### 전역으로 하면 전체를 바꾸고, 특정 장소만 바꾸고 싶으면 무한 규모를 체크 해제하고 활용하면 되겠다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5867fcda-3fb4-421a-bbdb-f3e6f0fd815c)
+### <br/>
+
+### 다양한 옵션이 있는데 lens flare 는 신기하다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1ab0b778-b620-4ade-bebc-81cebc754ff9
+### <br/>
+
+### 비네트
+### 주변 카메라를 어둡게 만든다.
+### 기본
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/97ccc8ae-b4e5-4b34-9b6b-3c19cea58957)
+### 강하게
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ced26479-d16e-46e5-862c-096df4cd7df1)
+### <br/><br/><br/>
+
+
+
 
 
