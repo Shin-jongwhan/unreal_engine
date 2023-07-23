@@ -17,3 +17,13 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/db94bb47-ccbd-4782-a196-770b863f0e58)
 ### 레벨 시퀀스에 시네 카메라를 모두 선택하여 드래그하면 다음과 같이 나온다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4baab10a-a63c-4344-a7cd-3d4df34cab89)
+### <br/>
+
+### 카메라 컷 부분이 실제 영상에서 비춰지는 부분이다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7be665db-5dd9-4825-bf0b-03876cdc91b2)
+### <br/>
+
+### directional light 도 시퀀서에서 구성할 수 있다.
+### 그냥 카메라랑 똑같이 드래그하면 된다.
+### directional light 는 회전 값을 바꿔주어야 하는데, 카메라는 여러 개인데 light 는 하나이다. 그래서 1 프레임이 바뀔 때 회전 값을 전환되는 카메라에 맞춰 다시 초기화하고 키 프레임을 찍으면 된다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8d1770e5-87a7-4bf3-b909-28bbb4ab1958)
