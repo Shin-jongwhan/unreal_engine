@@ -98,6 +98,16 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1ab0b778-b620-4ad
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ced26479-d16e-46e5-862c-096df4cd7df1)
 ### <br/><br/><br/>
 
+## 영화처럼 촬영하는 방법
+### 액터 중에 시네 카메라 액터라고 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/886031e7-2cc5-4598-8a84-ff67c15fad14)
+### 이렇게 촬영할 수 있다 카메라이다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7896c2d0-f9d4-4fd3-bb0f-92615fbb1ad4
+### <br/>
+
+### 시네 파일럿 카메라로 화면을 전환하고 싶으면 오브젝트에 우클릭해서 파일럿을 선택하자.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/20e6bce6-f9cc-46fd-a242-77386f34d1f1)
+
 
 
 
