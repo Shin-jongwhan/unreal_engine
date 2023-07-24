@@ -41,5 +41,16 @@
 ### 폴리지 모드에 대해서 설명하고 있다.
 ### 그리고 식물의 meterial 을 움직이는 효과나 빛 반사 같은 효과를 적용 / 수정하면 일괄적으로 적용할 수 있다고 설명해주었다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/87026915-6d17-41c6-9e94-46bbe799dbaa)
+### <br/>
+
+### 데칼
+### 퀵셀 브릿지에서 데칼에 대한 actor 를 다운받을 수 있는데, 벽면을 꾸미는 데에 사용한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/166ba52a-91db-4491-90f3-7d38aa5fbeea)
+### 데칼 사용시 주의 사항으로는 데칼은 박스 안에는 모두 데칼이 적용된다. 그래서 크기를 벽면에 맞춰 조절해주어야 한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ed100b9f-09be-4c08-83f9-e39d4afc1fe7)
+### 이렇게 그래피티도 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/59c386c2-9473-41c4-b05b-2e7e738b94f0)
+### <br/><br/><br/>
+
 
 
