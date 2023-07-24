@@ -31,3 +31,11 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8bde81f0-3f6c-4cd4-bffc-7ade714d5083)
 ### 이렇게 디테일하게 굴곡을 표현할 수 있다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c6814a18-711d-4e2d-8904-4ea85862f120)
+### <br/>
+
+### 이렇게 다양한 레벨 인스턴스로 벽면도 만들고 인스턴스 배치도 아주 쉽게 하였다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f3eee71e-e1de-4717-9ea2-946ed385bde2)
+### <br/><br/><br/>
+
+
+
