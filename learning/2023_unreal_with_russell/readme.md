@@ -37,5 +37,9 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f3eee71e-e1de-4717-9ea2-946ed385bde2)
 ### <br/><br/><br/>
 
+## 3 주차
+### 폴리지 모드에 대해서 설명하고 있다.
+### 그리고 식물의 meterial 을 움직이는 효과나 빛 반사 같은 효과를 적용 / 수정하면 일괄적으로 적용할 수 있다고 설명해주었다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/87026915-6d17-41c6-9e94-46bbe799dbaa)
 
 
