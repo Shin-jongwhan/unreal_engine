@@ -40,10 +40,25 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bf3ed563-7d3b-40e1-bbbe-bccf71c13fac)
 ### 폴리지를 이용해서 flat rock 을 생성해준다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/860212c6-a7aa-47cd-9136-2ac5d7d95216)
+### <br/><br/><br/>
 
+## game controller
+### 블루프린트로 만든다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/671357a4-028f-4388-8867-5f90a6540ba1)
+- 게임모드 : 게임 모드 베이스
+- 캐릭터 : 캐릭터
+- 플레이어 컨트롤러 : 플레이어 컨트롤러
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d4a533b7-0ffa-484b-ac8a-c451f9f8c26e)
+### 프로젝트 설정(이 레벨에 대한 설정만 해주면 되서 이렇게 설정)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0a96ca31-4eab-4b08-909e-33f44de40504)
+### 플레이어 스타트를 지정해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f7670602-f60e-4790-9278-1f84b353b993)
+### <br/><br/><br/>
 
-
-
+## camera
+### 참고 : 블루프린트에 pring string 이라고 있다. 함수가 실행이 되는지 체크할 수 있다.
+### 튜터로 가장 많이 쓰는 함수라고 한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8e89ccdb-82ec-43e8-a22e-0ca34eef75f5)
 
 
 
