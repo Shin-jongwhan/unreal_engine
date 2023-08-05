@@ -55,10 +55,34 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/f7670602-f60e-4790-9278-1f84b353b993)
 ### <br/><br/><br/>
 
-## camera
+## camera, input (캐릭터)
 ### 참고 : 블루프린트에 pring string 이라고 있다. 함수가 실행이 되는지 체크할 수 있다.
 ### 튜터로 가장 많이 쓰는 함수라고 한다.
+### event beginplay 는 게임이 시작할 때 딱 한 번 실행
+### tick 은 계속 틱 마다 실행된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8e89ccdb-82ec-43e8-a22e-0ca34eef75f5)
+### <br/>
+
+### 스켈레톤
+### 캐릭터의 관절을 나타내준다.
+### 스켈레톤에는 스켈레톤 매쉬가 등록되어 있다.
+### 그래서 스켈레톤 매쉬와 스켈레톤은 짝으로 존재한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ea33d5a5-2efc-4528-8688-35a28d83f67f)
+### <br/>
+
+### 하나의 매터리얼 안에서 영역을 나누어 색을 설정할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/74425ade-4241-4aaf-8efb-855e5fa13a17)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e305a132-b120-4843-a0ac-c161754f465d)
+### <br/>
+
+### 표정을 4x4 이미지와 같은 것을 등록해서 어떤 표정을 보여줄지도 선택하게 만들 수 있다.
+### 유니티의 스프라이트 나누는 것과 비슷하다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2753bbdd-a2ca-48a5-8fbb-8a0c1bed3b37)
+### 어떤 이미지 보여줄지 설정
+### 위에꺼는 이미지 변화 속도 값인데, 0 을 주어 변화가 없게 한다.
+### 아래 꺼는 이미지를 몇 번째로 나눈 걸 보여줄지에 대한 설정
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7f8e2313-ab3a-497e-ac96-4dbf04929b93)
+
 
 
 
