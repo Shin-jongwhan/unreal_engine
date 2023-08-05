@@ -19,11 +19,49 @@
 ### 미리 만들어둔 상자에 물리도 입히고 하는 등 여러가지가 설정이 된 element 를 만드는 작업
 ### 스태틱 메시에 만들어둔 crate 를 넣어준다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/878c3b4b-352a-435a-8e64-986a0d7de749)
+### 물리 관련 설정
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/78d30757-d595-4fb3-ba5d-76f4ce775def)
+### 이 상태로 crate 를 scene 에 추가하면 물리가 적용된 crate 를 사용할 수 있다.
+### <br/><br/><br/>
+
+## landscape 
+### 랜드스케이프 모드에서 맵의 지형을 만들 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/cdf10040-c65b-483f-947a-4264395c4e8e)
+### <br/>
+### 지형에 매터리얼을 입힐 것을 만든다.
+### 매터리얼을 하나 생성하고 블루프린트 로직을 이용해 만든다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3169e24a-cbeb-47a2-bc2c-503937009564)
+### <br/><br/><br/>
+
+## rock
+### meterial 을 먼저 만든다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/cae88978-c048-40b0-a90b-a1332d02b6ed)
+### 그 다음 콘텐츠 브라우저에서 follige 생성을 클릭해서 물리 설정, collision 설정, light 영향 true 설정하고 생성해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bf3ed563-7d3b-40e1-bbbe-bccf71c13fac)
+### 폴리지를 이용해서 flat rock 을 생성해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/860212c6-a7aa-47cd-9136-2ac5d7d95216)
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### <br/><br/><br/>
 -----------------------------
 
 # old
