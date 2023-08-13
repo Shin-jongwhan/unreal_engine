@@ -18,6 +18,7 @@
 
 ## 블루프린트 작성
 ### 컴포넌트에 overlap 이 시작되면, 캐릭터를 인식해서 캐릭터가 들어왔음이 true 가 되면, z 축(위)으로 3000 만큼 속도를 주어 날려 보낸다.
+### character index 0 은 지금 플레이 하고 있는 캐릭터를 가리킨다.
 ### 캐릭터는 중력에 의해 속도는 자연스럽게 줄어들어 바닥에 안착된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/38343f55-156c-440c-809d-1f1f25cd53d5)
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/573d3aee-f7e4-4f3f-af3f-8d4b05070c0a
