@@ -1,5 +1,7 @@
 ### 230813
 ## 매크로
+### 많은 노드들이 연결된 모듈이라고 생각하면 된다. 입력이 있고, 출력이 있다.
+### 노드를 간단하게 만들기 위해 사용한다.
 ### [unreal docs - 매크로](https://docs.unrealengine.com/5.2/ko/making-macros-in-unreal-engine/)
 ### <br/><br/><br/>
 
