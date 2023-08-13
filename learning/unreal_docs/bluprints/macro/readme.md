@@ -30,9 +30,16 @@
 #### 2-1) 0 보다 크면 energy 를 10 마이너스 하고, 에너지를 출력한 후 Has Energy 를 output 으로 출력한다.
 #### 2-2) 0 보다 같거나 작으면 'Out of energy !' 를 출력하고 No Energy 를 output 으로 출력한다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4a1f23f1-4cf0-4184-967c-cf35e869db13)
+### 향상된 매크로
+### 위에 꺼로 하면 점프 상태에도 점프 입력을 누르면 계속 에너지가 줄어든다.
+### 아래와 같이 하면 점프 상태인지 체크해서 점프 안 한 상태에서만 에너지가 감소하게 한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7c237f64-5b5c-4bcd-b623-a489c6f6b06a)
 ### <br/>
 
 ### 5. 점프 노드에 EngergyCheck 매크로 추가
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1c1bf368-381f-4f28-a655-7cba29112c3f)
 ### <br/>
+
+### 6. 결과 확인
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b5c80973-7a8c-4fee-a992-e119ab774bd2
 
