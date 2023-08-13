@@ -23,4 +23,16 @@
 ### 3. Energy 변수 추가
 ### 위에 컴파일 버튼을 눌러야 기본값 설정이 가능하다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2fe3e68d-71e1-4467-b130-366f31fdf1e9)
+### <br/>
+
+### 4. 매크로에 노드 추가
+#### 1) energy 가 0 보다 큰지 체크한다.
+#### 2-1) 0 보다 크면 energy 를 10 마이너스 하고, 에너지를 출력한 후 Has Energy 를 output 으로 출력한다.
+#### 2-2) 0 보다 같거나 작으면 'Out of energy !' 를 출력하고 No Energy 를 output 으로 출력한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4a1f23f1-4cf0-4184-967c-cf35e869db13)
+### <br/>
+
+### 5. 점프 노드에 EngergyCheck 매크로 추가
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1c1bf368-381f-4f28-a655-7cba29112c3f)
+### <br/>
 
