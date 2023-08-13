@@ -24,3 +24,18 @@
 ### 더해주기만 하면 된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a0fbf5c3-ffee-4b48-93bc-b44faa92928e)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/24bc0ce7-9793-4b2f-b9a7-09e186b434a7)
+### <br/>
+
+### 4. ThirdPerson 캐릭터 BP 에 Health 변수 추가
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ac6fed04-38c2-421e-86bb-e6b51f409c61)
+### <br/>
+
+### 5. ThirdPerson 캐릭터 BP 에 다음과 같이 노드 추가
+### docs 랑 똑같이 진행한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6303a4e0-df99-44fb-8bf4-7be0a352083c)
+### <br/>
+
+### 결과
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d1036315-6d24-4cd3-a817-474321ee0b7c
+
+
