@@ -24,4 +24,5 @@
 - [블루프린트 - 매크로](https://docs.unrealengine.com/5.2/ko/making-macros-in-unreal-engine/)
 - [블루프린트 - 매크로 라이브러리](https://docs.unrealengine.com/5.2/ko/using-macro-libraries-in-unreal-engine/)
 - [블루프린트 - 함수](https://docs.unrealengine.com/5.2/ko/creating-functions-in-unreal-engine/)
+- [블루프린트 - 레퍼런스 Set / Get](https://docs.unrealengine.com/5.2/ko/set-and-get-an-actor-reference-in-unreal-engine/)
 ### <br/><br/><br/>
