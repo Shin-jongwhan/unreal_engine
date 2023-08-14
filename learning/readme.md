@@ -25,7 +25,3 @@
 - [블루프린트 - 매크로 라이브러리](https://docs.unrealengine.com/5.2/ko/using-macro-libraries-in-unreal-engine/)
 - [블루프린트 - 함수](https://docs.unrealengine.com/5.2/ko/creating-functions-in-unreal-engine/)
 ### <br/><br/><br/>
-
-
-
-### https://github.com/Shin-jongwhan/unreal_engine/blob/main/learning/readme.md#unreal-docs
