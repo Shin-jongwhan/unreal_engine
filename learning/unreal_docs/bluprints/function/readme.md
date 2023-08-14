@@ -19,5 +19,3 @@
 
 ### 결과
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/02d3d10b-7ad1-4d0f-b729-a7b570c40d3b
-
-https://github.com/Shin-jongwhan/unreal_engine/blob/main/learning/readme.md#unreal-docs
