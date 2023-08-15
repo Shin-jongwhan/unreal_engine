@@ -20,8 +20,10 @@
 ## 2. 함수로 접기
 ### 함수로 접을 수도 있다.
 ### 함수로 접으면 다른 블루프린트에서도 쓸 수 있다.
+### 파라미터를 변경하여 사용해야할 때 유용하다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/78219205-7ec8-4335-931d-df4534d03cbe)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/031b0c24-ffd1-42de-bb7f-1dbcd9a6fd1f)
 ### <br/><br/><br/>
 
-
+## 3. 매크로로 접기
+### 함수와 비슷하다. 여러 번 반복해서 쓸 때 이용한다.
