@@ -1,6 +1,9 @@
 ### 230815
 ## 그래프 접기
 ### [unreal docs - 그래프 접기](https://docs.unrealengine.com/5.2/ko/collapsing-graphs-in-unreal-engine/)
+### <br/>
+### 함수와 매크로 차이
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/57972705-9e6b-484d-a462-ce9fd20822af)
 ### <br/><br/><br/>
 
 ## 1. 노드로 접기
