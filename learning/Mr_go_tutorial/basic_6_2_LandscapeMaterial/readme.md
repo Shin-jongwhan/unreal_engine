@@ -52,3 +52,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5410b4b7-91de-4e4
 ### 나는 roughness를 얻고 싶으니 G값을 연결해주면 된다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8bff7495-781e-4bf4-94cb-5ccc08aedea3)
 ### <br/>
+
+### 요렇게 landscape에 텍스쳐를 입힐 수 있다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/354c3757-c4f3-4689-aec8-571019b61bd3
+### <br/>
+
+
+
