@@ -26,3 +26,10 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/cd481f24-def6-44a
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e3425c4d-857d-4881-98e3-b2b309cf275b
 ### <br/>
 
+### 머터리얼을 다음과 같이 다 만들고, 적용
+### 그리고 landscape 쪽에 머터리얼을 연결한다.
+### landscape 창에서 paints 탭으로 가면 다음과 같이 설정된 걸 볼 수 있다.
+### 브러쉬를 이용하기 전에 + 버튼(create layer info) - normal로 하나씩 만들어줘야 한다. 
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2aedf738-8ac4-48e6-b222-c1ba8575bc87)
+### <br/>
+
