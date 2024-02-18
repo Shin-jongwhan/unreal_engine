@@ -44,5 +44,8 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5410b4b7-91de-4e4
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ed0bcfd2-efda-4eec-ad43-624d3f128e3a)
 ### <br/>
 
+## 텍스쳐 약어
+### RGB 순서대로의 의미를 나타낸다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c76513c6-2f66-4f0a-8c64-5143f5e761d8)
 
 
