@@ -8,11 +8,20 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/60b60b49-1be6-4951-a4b4-b18d40913766)
 ### <br/><br/><br/>
 
-## 노드 연결 팁
+## 노드 연결 팁(중간 노드)
 ### 노드에 더블 클릭하면 다음과 같이 연결 시작 구간을 깔끔하게 설정할 수 있다.
 
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/cd481f24-def6-44a8-b32d-324fa133dd51
 ### <br/><br/><br/>
 
-## landscapelayercod
-### 
+## landscapelayer
+### 먼저 landscapelayercoods를 모두 아래와 같이 연결해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e97af55b-267f-47bd-91f0-bdd505eb6de2)
+### <br/>
+
+### 그 다음 landscapelayerblend를 하나 생성하고 base color에 연결.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e9fa8044-6143-4907-900e-a6430cc21764)
+### 그리고 컴포넌트를 클릭하고 디테일 창에서 + 버튼을 누르면 연결할 수 있는 노드를 생성해준다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7f89961d-7319-443b-897e-298ea343267c
+
