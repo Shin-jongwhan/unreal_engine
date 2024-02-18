@@ -1,5 +1,6 @@
 ### 240218
 ## 언리얼엔진5 강의 입문 04강 1부_3D에셋 및 콜리전 적용
+### [youtube](https://www.youtube.com/watch?v=3fupJB9reOA&list=PLxN-zf3BqZZl5dtnX0bgqYf8LDM3rn-Hs&index=4)
 ### <br/><br/><br/>
 
 ## sketchfab에서 무료 3D 에셋들을 받고 적용하는 방법
