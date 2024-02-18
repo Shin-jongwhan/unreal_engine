@@ -1,5 +1,8 @@
 ### 240217
-## material
+## 언리얼엔진5 강의 입문 03강_Material_QuixelBridge
+### [youtube](https://www.youtube.com/watch?v=zGRzbSsvtaA&list=PLxN-zf3BqZZl5dtnX0bgqYf8LDM3rn-Hs&index=4)
+### <br/>
+
 ### 알아야할 것
 - add : RGB 색상값을 최대를 초과하지 않는 선(255)에서 add 한다.
 - multiply : RGF 색상값을 곱한다.
