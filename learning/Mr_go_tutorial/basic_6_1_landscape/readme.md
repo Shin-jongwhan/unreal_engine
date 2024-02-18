@@ -18,6 +18,7 @@
 ### <br/><br/><br/>
 
 ## landscape 도구
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/13e3aa25-9eb0-40d2-874a-0e5d07fe3fdf)
 - sculpt : 지형을 올리거나 내릴 수 있다. 다양한 형태를 만들 수 있다.
 - erase : 지우기
 - smooth : 날카로운 지형을 부드럽게 만들어준다.
@@ -26,4 +27,7 @@
 - erosion : 부식. 깎아지르는 경사로같은 느낌을 만들어준다.
 - hydro : 물에 의한 침식
 - noise : 위, 아래로 랜덤으로 지형 변경이 일어남
-- 
+- retop : retopology. 아래와 같이 가파른 지형은 폴리곤이 쭉 늘어나있는데, 이를 아래 지형의 폴리곤을 같이 끌어올려서 균일한 모양의 폴리곤을 만들어주는 도구. 그런데 landscape 모드에서는 안 된다는데 어떻게 쓰는 건지 잘 모르겠다.<br/>
+  ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/da3ede73-3688-4295-988a-c479a3dc4cb6)
+   
+
