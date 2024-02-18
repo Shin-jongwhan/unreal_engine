@@ -58,5 +58,9 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5410b4b7-91de-4e4
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/354c3757-c4f3-4689-aec8-571019b61bd3
 ### <br/>
 
+### 다음과 같이 파라미터화하고 그룹화를 하면 손쉽게 바꾸고 관리할 수도 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bb97809c-9878-473e-9693-bcd18a1e0a4d)
+### <br/>
+
 
 
