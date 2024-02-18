@@ -42,6 +42,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/24afbf6b-34be-403
 ### noise 적용
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b8b7e6b7-5c3a-435c-be52-010435580716)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/9b5445ec-96fb-4642-9a25-6815487842e9)
+### <br/>
+
+### 팁
+### directional light에 noise panning을 적용하면 구름이 지나가는 것처럼 만들 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/45067b48-6492-49cb-9c05-462496a68eb3)
 ### <br/><br/><br/>
 
 ## rect light
