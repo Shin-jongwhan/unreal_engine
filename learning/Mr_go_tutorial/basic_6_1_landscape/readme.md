@@ -1,5 +1,6 @@
 ### 240218
 ## 언리얼엔진5 강의 입문 06강 1부_Landscape
+### [youtube](https://www.youtube.com/watch?v=gwLotMY_Fe8&list=PLxN-zf3BqZZl5dtnX0bgqYf8LDM3rn-Hs&index=8)
 ### <br/><br/><br/>
 
 ## 빈 레벨 만들기
