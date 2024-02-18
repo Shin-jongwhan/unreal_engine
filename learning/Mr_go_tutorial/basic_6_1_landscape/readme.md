@@ -28,7 +28,7 @@
 - hydro : 물에 의한 침식
 - noise : 위, 아래로 랜덤으로 지형 변경이 일어남
 - retop : retopology. 아래와 같이 가파른 지형은 폴리곤이 쭉 늘어나있는데, 이를 아래 지형의 폴리곤을 같이 끌어올려서 균일한 모양의 폴리곤을 만들어주는 도구. 그런데 landscape 모드에서는 안 된다는데 어떻게 쓰는 건지 잘 모르겠다.<br/>
-  * 폴리곤 보는 건 scene 좌측 상단 Lit에서 wireframe으로 변경하면 된다.<br/>
+  \* 폴리곤 보는 건 scene 좌측 상단 Lit에서 wireframe으로 변경하면 된다.<br/>
   ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/da3ede73-3688-4295-988a-c479a3dc4cb6)
    
 
