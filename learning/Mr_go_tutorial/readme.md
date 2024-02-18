@@ -10,6 +10,7 @@
 - [언리얼엔진5 강의 입문 04강 2부_3D에셋 적용 및 이주](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_4_2_3D_assets_apply_and_migration)
 - [언리얼엔진5 강의 입문 05강_Light&Lumen](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_5_light_lumen)
 - [언리얼엔진5 강의 입문 06강 1부_Landscape](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_6_1_landscape)
+- [언리얼엔진5 강의 입문 06강 2부_LandscapeMaterial](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_6_2_LandscapeMaterial)
 ### <br/><br/><br/>
 
 ## 유용한 웹사이트
