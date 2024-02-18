@@ -50,3 +50,7 @@
 - MC: Metalness (금속성) 및 Clearcoat (클리어코트)
 ### <br/><br/><br/>
 
+## sketchfab에서 FBX, obj 형식 다운로드가 없는 경우 사용 방법
+### 블랜더라는 툴을 활용하여 변환시켜줄 것이다.
+### 블랜더는 다음과 같은 형식을 지원한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/78e85f20-b152-43de-a7c2-e261cc5032f9)
