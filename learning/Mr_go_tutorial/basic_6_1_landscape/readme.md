@@ -35,5 +35,10 @@
   ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8f253b38-4206-45f7-8949-d9e8efe58d87)<br/>
   after<br/>
   ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5f48bcc9-b687-4bf2-89a8-701511c3d945)
+- select : positive, negative 모드가 있다.<br/>
+  negative는 해당 영역만을 제외하고 다른 영역을 편집하고 싶을 때 사용한다.<br/>
+  positive는 해당 영역만 선택.
+- copy : select로 영역을 선택하고 복사할 수 있다.
+### <br/><br/><br/>
 
 
