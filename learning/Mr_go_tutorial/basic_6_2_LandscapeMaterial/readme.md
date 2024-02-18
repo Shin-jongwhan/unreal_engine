@@ -38,6 +38,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e3425c4d-857d-488
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5410b4b7-91de-4e4b-8211-dea6c2049575
 ### <br/>
 
+### 만약에 특정 텍스쳐가 너무 작거나 크면 landscapecoods에서 scale 값을 조정한다.
+### 돌과 같은 텍스쳐는 작게 나와야 하는 등...
+### landscapecoods를 각 텍스쳐마다 생성해서 scale 값을 다르게 할 수도 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ed0bcfd2-efda-4eec-ad43-624d3f128e3a)
+### <br/>
 
 
 
