@@ -20,7 +20,33 @@
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5b125fbf-37a9-4d39-8ef6-5f706c7c1b94)
 ### <br/>
 
-### 
+### 처음에 skin을 scene에 배치하면 다음과 같이 아무것도 없다.
+### scene에 배치된 캐릭터를 클릭하고 ctrl + E를 누른다. 그 다음 material 항목을 확인한다. 
+### 맨 위에 있는 게 여기서는 face이다. meterial 그림을 더블 클릭한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/4cf4b039-6cd2-4d38-9d62-b63e37837a34)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/34021e11-71c8-4c76-b808-e416650bec5e)
+### <br/>
 
+### 그럼 이렇게 기본적인 세팅만 되어 있다. 이제 ctrl + 스페이스 바를 눌러서 콘텐츠 브라우저를 연 다음, face라고 검색
+### 모두 선택해서 드래그 & 드롭한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/76aeb654-78b1-4b8c-9667-298265e03896)
+### 아래와 같이 연결해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d0313bb1-0ff4-4be6-ab1c-237164e308f4)
+### <br/>
+
+### 그러면 meteral이 이렇게 설정이 된다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/8ff3c4bb-6768-4432-b108-bed181833824)
+### <br/>
+
+### 참고로 텍스처 명칭을 다음과 같은 의미다.
+- D: Diffuse (또는 Albedo)
+- R: Roughness (거칠기)
+- A: Ambient Occlusion (주변조명)
+- DEP: Depth (깊이)
+- N: Normal (법선)
+- E: Emissive (발광)
+- M: Metallic (금속성)
+- P: Packed (패킹된)
+- MC: Metalness (금속성) 및 Clearcoat (클리어코트)
 ### <br/><br/><br/>
 
