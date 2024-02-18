@@ -37,4 +37,9 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c2cf065f-aa76-43c
 ### 그 다음 light function에 적용해본 후 파라미터를 조정하면서 확인해보자.
 
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/24afbf6b-34be-4032-bdf3-6bdfd4e82e16
+### <br/>
+
+### noise 적용
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b8b7e6b7-5c3a-435c-be52-010435580716)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/9b5445ec-96fb-4642-9a25-6815487842e9)
 ### <br/><br/><br/>
