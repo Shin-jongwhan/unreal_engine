@@ -54,3 +54,14 @@
 ### 블랜더라는 툴을 활용하여 변환시켜줄 것이다.
 ### 블랜더는 다음과 같은 형식을 지원한다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/78e85f20-b152-43de-a7c2-e261cc5032f9)
+### <br/>
+
+### 이번에는 이걸 glTF 형식으로 다운로드해볼 것이다.
+#### https://sketchfab.com/3d-models/london-office-building-8d3ea98595b4403cbf21065e8f9b7bb7
+### 그 다음 import 해서 gltf 파일 선택 -> export로 fbx 형식으로 한다.
+### 그 다음 unreal에 import한다.
+### import 해주고나면 파일이 여러 개로 쪼개져 있는데, 당황하지 말고 그냥 전체 선택 후 scene에 떨군다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a570c81c-420c-4446-8cc8-1610498f5714
+### <br/>
+
