@@ -33,3 +33,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e3425c4d-857d-488
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/2aedf738-8ac4-48e6-b222-c1ba8575bc87)
 ### <br/>
 
+### 그러면 이렇게 landscape가 설정된다.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/5410b4b7-91de-4e4b-8211-dea6c2049575
+### <br/>
+
+
+
+
