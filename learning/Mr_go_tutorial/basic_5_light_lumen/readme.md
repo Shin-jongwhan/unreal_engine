@@ -29,10 +29,12 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/c2cf065f-aa76-43c
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/62fbf538-d5a1-44cc-974f-d8701ce5fdbe)
 ### 다음과 같이 만든다. 여기서 중요한 건 size, x_speed, y_speed 파라미터이다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/57b1f01d-3065-403f-a2b1-c73560d98808)
-### <br/>
 
 ### 다음과 같이 material instance를 만든다. 이름은 MI로 MI_LF_Logo로 약자로 한다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/25538ab7-bed8-4319-9154-cd2d22d93d26)
 ### <br/>
 
-### 그 다음
+### 그 다음 light function에 적용해본 후 파라미터를 조정하면서 확인해보자.
+
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/24afbf6b-34be-4032-bdf3-6bdfd4e82e16
+### <br/><br/><br/>
