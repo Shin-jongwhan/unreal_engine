@@ -43,3 +43,15 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/24afbf6b-34be-403
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b8b7e6b7-5c3a-435c-be52-010435580716)
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/9b5445ec-96fb-4642-9a25-6815487842e9)
 ### <br/><br/><br/>
+
+## rect light
+### 빔 프로젝터와 같은 느낌을 줄 수 있다.
+### 그냥 적용하면 이렇게 보인다. 그래서 x, y offset 설정을 따로 해줘야 한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7492f415-7efa-4cb0-8fa5-abe8430b69b3)
+### 아래와 같이 설정한다. scale을 0.5로 조정, offset 설정하고 add로 연결시켜준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7416fd1e-1b14-4c5d-8211-c6b2f803bcbf)
+### 그럼 이렇게 하나만 보이게 만들 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/ceed6c79-bb20-4f47-8209-714ad36fb3b9)
+### <br/><br/><br/>
+
+
