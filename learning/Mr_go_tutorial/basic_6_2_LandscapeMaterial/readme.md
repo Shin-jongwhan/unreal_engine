@@ -23,5 +23,6 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/cd481f24-def6-44a
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e9fa8044-6143-4907-900e-a6430cc21764)
 ### 그리고 컴포넌트를 클릭하고 디테일 창에서 + 버튼을 누르면 연결할 수 있는 노드를 생성해준다.
 
-https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/7f89961d-7319-443b-897e-298ea343267c
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/e3425c4d-857d-4881-98e3-b2b309cf275b
+### <br/>
 
