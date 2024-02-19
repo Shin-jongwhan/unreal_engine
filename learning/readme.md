@@ -26,3 +26,11 @@
 - [블루프린트 - 함수](https://docs.unrealengine.com/5.2/ko/creating-functions-in-unreal-engine/)
 - [블루프린트 - 액터 레퍼런스 Set / Get](https://docs.unrealengine.com/5.2/ko/set-and-get-an-actor-reference-in-unreal-engine/)
 ### <br/><br/><br/>
+
+### 240219
+## Mr.go 유튜브 채널 언리얼 입문
+### [Mr.go unreal basic](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial)
+### 언리얼 시스템, 언리얼 사용 방법 등에 대해서 자세히 알려준다.
+### 블루프린트, 게임 로직, 알고리즘 등에 대해서는 많이 다루지 않는다.
+### <br/><br/><br/>
+
