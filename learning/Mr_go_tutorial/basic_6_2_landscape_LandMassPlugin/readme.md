@@ -34,3 +34,11 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d43c5a1a-f61c-462
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/807d2ea7-1efa-4109-be64-970323b4967b)
 ### <br/>
 
+### M_earth라는 material을 하나 만들고 다음과 같이 등록해준다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b16ebf39-8631-4642-9e94-3409d100725d)
+### 그리고 actor 배치 패널에서 sphere 하나 생성해주고 material 등록해주면 다음과 같이 지구가 생성되었다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3f6c1c0d-e4c7-4674-aab7-786106572729)
+### <br/>
+
+
+
