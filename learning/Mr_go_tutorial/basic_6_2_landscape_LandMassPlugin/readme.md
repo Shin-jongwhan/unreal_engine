@@ -40,5 +40,10 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d43c5a1a-f61c-462
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/3f6c1c0d-e4c7-4674-aab7-786106572729)
 ### <br/>
 
+## 화성 만들기
+- 지구 행성 추가
+- skyatmosphere 설정
+- 화성 탐사 로봇 추가
+#### ![ScreenShot00001](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/beb5b477-ac04-45a5-8f8b-55fa399dfcd9)
 
 
