@@ -11,6 +11,7 @@
 - [언리얼엔진5 강의 입문 05강_Light&Lumen](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_5_light_lumen)
 - [언리얼엔진5 강의 입문 06강 1부_Landscape](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_6_1_landscape)
 - [언리얼엔진5 강의 입문 06강 2부_LandscapeMaterial](https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_6_2_LandscapeMaterial)
+- [언리얼엔진5 강의 입문 06강 3부_LandMassPlugin]https://github.com/Shin-jongwhan/unreal_engine/tree/main/learning/Mr_go_tutorial/basic_6_2_landscape_LandMassPlugin
 ### <br/><br/><br/>
 
 ## 유용한 웹사이트
