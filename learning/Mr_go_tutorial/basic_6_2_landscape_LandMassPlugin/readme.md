@@ -27,3 +27,8 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d43c5a1a-f61c-462
 ## 화성 텍스쳐, 3D 모델 / 행성 텍스쳐 관련 사이트
 ### [화성 관련 NASA](https://mars.nasa.gov/multimedia/more-resources/?page=0&per_page=50&order=pub_date+desc&search=&category=239%2C348%2C243%2C242%2C241%2C316%2C324)
 ### [행성 관련 텍스쳐](https://www.solarsystemscope.com/textures/)
+### <br/>
+
+### 나는 이거 다운로드 받았다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/0f7e4d50-9e95-4b0c-9dd2-b25e681966b0)
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bc22ad3c-6429-4191-a24e-18b12532558e)
