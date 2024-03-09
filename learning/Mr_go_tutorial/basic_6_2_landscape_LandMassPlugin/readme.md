@@ -14,3 +14,10 @@
 ### blueprint brush에서 landmass를 선택하고 scene에 그리면 다음과 같이 나온다.
 ### 각 꼭짓점을 splines라고 한다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/b3146331-1540-4536-bda2-29fa39c8f911)
+### <br/>
+
+### 컴포넌트 창에는 랜드스케이프 관련한 게 하나 생기는데, 거기서 다양한 옵션을 조정할 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1cfa762b-028b-4122-b220-e5a72800c567
+### <br/>
+
+
