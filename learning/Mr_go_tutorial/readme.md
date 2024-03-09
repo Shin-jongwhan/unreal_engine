@@ -18,5 +18,5 @@
 - [sketchfab (입문 04강 1부에서 소개)](https://sketchfab.com/)<br/>
   여러 3D asset을 다운로드 받을 수 있다.
 - [artstation (입문 04강 2부에서 소개)](https://www.artstation.com/?sort_by=community&dimension=all)
-- [화성 관련 NASA 3D 모델, 텍스쳐](https://mars.nasa.gov/multimedia/more-resources/?page=0&per_page=50&order=pub_date+desc&search=&category=239%2C348%2C243%2C242%2C241%2C316%2C324)
-- [행성 관련 텍스쳐](https://www.solarsystemscope.com/textures/)
+- [화성 관련 NASA 3D 모델, 텍스쳐 (입문 6강 3부)](https://mars.nasa.gov/multimedia/more-resources/?page=0&per_page=50&order=pub_date+desc&search=&category=239%2C348%2C243%2C242%2C241%2C316%2C324)
+- [행성 관련 텍스쳐 (입문 6강 3부)](https://www.solarsystemscope.com/textures/)
