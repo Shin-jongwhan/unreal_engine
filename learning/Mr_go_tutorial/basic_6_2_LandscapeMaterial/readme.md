@@ -74,7 +74,9 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/354c3757-c4f3-468
 ### 쿼드 수가 적을 수록 연산이 적어져 최적화에 도움이 된다.
 ### 그래서 플레이어가 활동하는 지형만 쿼드 수를 많이 배치, 나머지 지형은 낮게 배치하면 좋다.
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6ca1541e-7dc0-4c88-b3aa-271964925cb8)
-### <br/><br/><br/>
+### <br/>
 
-
+### 지형은 쿼드에 따라서 올라간다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a5657341-49c3-41a9-a981-9e05b7d78886
+### <br/>
 
