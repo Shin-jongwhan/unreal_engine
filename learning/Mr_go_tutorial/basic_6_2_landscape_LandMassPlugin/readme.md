@@ -20,4 +20,7 @@
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1cfa762b-028b-4122-b220-e5a72800c567
 ### <br/>
 
+### 이걸 잘 이용하면 이렇게 랜덤한 산 지형도 만들 수 있다.
+https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d43c5a1a-f61c-4622-b538-1e160316d6a0
+### <br/>
 
