@@ -22,5 +22,8 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/1cfa762b-028b-412
 
 ### 이걸 잘 이용하면 이렇게 랜덤한 산 지형도 만들 수 있다.
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d43c5a1a-f61c-4622-b538-1e160316d6a0
-### <br/>
+### <br/><br/><br/>
 
+## 화성 텍스쳐, 3D 모델 / 행성 텍스쳐 관련 사이트
+### [화성 관련 NASA](https://mars.nasa.gov/multimedia/more-resources/?page=0&per_page=50&order=pub_date+desc&search=&category=239%2C348%2C243%2C242%2C241%2C316%2C324)
+### [행성 관련 텍스쳐](https://www.solarsystemscope.com/textures/)
