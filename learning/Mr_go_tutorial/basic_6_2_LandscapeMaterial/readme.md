@@ -80,3 +80,5 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/354c3757-c4f3-468
 https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/a5657341-49c3-41a9-a981-9e05b7d78886
 ### <br/>
 
+### 언리얼 문서에서 권장하는 쿼드 수를 확인할 수 있다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/893de72a-65b9-47ac-adaf-c60de6b56e54)
