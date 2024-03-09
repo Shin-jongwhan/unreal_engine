@@ -62,5 +62,19 @@ https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/354c3757-c4f3-468
 #### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/bb97809c-9878-473e-9693-bcd18a1e0a4d)
 ### <br/>
 
+### 안 쪽에 동굴처럼 지형을 추가하고 싶다면 landscape를 하나 더 추가한다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/d9abf89f-ed7a-42dd-86af-13aa3c4de622)
+### <br/><br/><br/>
+
+## landscape 범위 개념
+### 각 색의 안 쪽은 다음의 의미다
+- 노란색 : 컴포넌트
+- 초록색 : 세션
+- 연녹색 : 쿼드
+### 쿼드 수가 적을 수록 연산이 적어져 최적화에 도움이 된다.
+### 그래서 플레이어가 활동하는 지형만 쿼드 수를 많이 배치, 나머지 지형은 낮게 배치하면 좋다.
+#### ![image](https://github.com/Shin-jongwhan/unreal_engine/assets/62974484/6ca1541e-7dc0-4c88-b3aa-271964925cb8)
+### <br/><br/><br/>
+
 
 
